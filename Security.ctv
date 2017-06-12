@@ -30,6 +30,7 @@
     <pkg priority="core">shiny</pkg>
     <pkg priority="core">XML</pkg>
     <pkg>abbyyR</pkg>
+    <pkg>evaluator</pkg>: An R implementation of OpenFAIR for information security strategic risk analysis.
   </packagelist>
   <links>
     <a href="https://github.com/ropensci/opendata">Open Data TaskView</a>
